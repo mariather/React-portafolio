@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Password Generator",
+        "description": "Application enable to generate strong random password based on some specific criteria confirmed by the user",
+        "deployment": "https://mariather.github.io/Password-Generator-in-JavaScript/",
+        "repository": "https://github.com/mariather/Password-Generator-in-JavaScript"
+    },
+    {
+        "name": "Coding Quiz",
+        "description": "This multiple-choice quiz will test your skills with coding!",
+        "deployment": "https://mariather.github.io/Code-quiz-website//",
+        "repository": "https://github.com/mariather/Code-quiz-website"
+    
+    },
+    {
+        "name": "Work Day Scheduler",
+        "description": "Daily calendar application that allows users to save events for each hour of the day",
+        "deployment": "https://mariather.github.io/Work-Day-Scheduler-App/",
+        "repository": "https://github.com/mariather/Work-Day-Scheduler-App"
+        
+    },
+    {
+        "name": "Memerable",
+        "description": "An API app dedicated to video games and memes!",
+        "deployment": "https://allsystemsrgeorge.github.io/Memerable//",
+        "repository": "https://github.com/AllSystemsRGeorge/Memerable"
+       
+    }
+]
